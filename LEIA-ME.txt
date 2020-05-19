@@ -1,0 +1,4 @@
+OBS!
+Após inserir o site no servidor, para acessar o adminstrativo, acesse o seguinte endereço:
+Localmente: localhost/loja-virtual/config.php
+Servidor: porta do servidor/loja-virtual/config.php
