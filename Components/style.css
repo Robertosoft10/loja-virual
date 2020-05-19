@@ -1,0 +1,83 @@
+
+#title-img-prop{
+	color: #ff9c55;
+	font-size: 30pt;
+}
+#btn-cart-save{
+	margin-top: -3%;
+}
+#btn-acao-cart{
+	font-size: 20pt;
+	color: #d2691e;
+}
+#logo-site{
+	font-size: 15pt;
+}
+#nome-item{
+	color: #d2691e;
+	font-size: 10pt;
+}
+#item-nome{
+	margin-left: 10%;
+}
+#valor-compra{
+	color: #d2691e;
+	font-size: 14pt;
+}
+.my_cart{
+	background-color: #FFDEAD;
+
+}
+.dado-compra{
+	margin-left: 10%;
+}
+.my_boleto{
+	background-color: #CDC9C9;
+	font-size: 12pt;
+	width: 30%;
+}
+.boleto{
+	width: 60%;
+	margin-left: 15%;
+	margin-top: 5%;
+	border: 1px;
+}
+#btn-imprimir{
+	background-color: #CDC9C9;
+	width: 20%;
+	height: 36px;
+	border: none;
+   font-size: 12pt;
+   margin-left: 33%;
+   cursor: pointer;
+}
+.link-login{
+	margin-top: 4%;
+}
+#link-topo{
+	color: #000000;
+	font-size: 12pt;
+}
+#link-topo a:visited{
+	color: #d2691e;
+	font-size: 12pt;
+}
+#msg-cart{
+	color: darkred;
+}
+#icon-cantact{
+	font-size: 22pt;
+}
+#pessoa-msg{
+	width: 25%;
+}
+#desc-index{
+	width: 22%;
+}
+#msg-index{
+	font-size: 12pt;
+	background-color: #ffffff;
+}
+#propg-index{
+	color: #fa934a;
+}

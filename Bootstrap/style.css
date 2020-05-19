@@ -1,0 +1,42 @@
+#nav-top{
+  background-color: #4caf50;
+}
+#link-top, #user-logado{
+  color: #ffffff;
+}
+#link-top-dropdown{
+  color: #370f53;
+}
+#link-left{
+  background-color: #4caf50;
+  color: #ffffff;
+  text-decoration: none;
+}
+#descri-item{
+  width: 25%;
+}
+#btn-acao{
+  width: 35%;
+}
+#img-detalhe{
+  width: 30%;
+}
+#btn-login{
+  width: 50%;
+}
+#btn-comprar{
+  background-color: #4caf50;
+  color: #ffffff;
+}
+#img-carrinho{
+	width: 60%;
+}
+#td-menor{
+	width: 20%;
+}
+#qtd-carrinho{
+	width: 20%;
+}
+#valor-pedido{
+	font-size: 20pt;
+}
